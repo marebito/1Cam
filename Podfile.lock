@@ -1,0 +1,20 @@
+PODS:
+  - NextLevel (0.13.2)
+  - NextLevelSessionExporter (0.2.0)
+
+DEPENDENCIES:
+  - NextLevel (~> 0.13.0)
+  - NextLevelSessionExporter (~> 0.2.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - NextLevel
+    - NextLevelSessionExporter
+
+SPEC CHECKSUMS:
+  NextLevel: 6947df5dcae803489efc4071b781db753e442d17
+  NextLevelSessionExporter: 7c4dffaecbaa47c89106dd3367ae57dab0cd946f
+
+PODFILE CHECKSUM: 2ec95133294dbadbd2a701dbf1a19c830f5a804b
+
+COCOAPODS: 1.5.3
